@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hate-vtubers
-- 👀 I’m believe in vtuber supremacy
+- 👀 I believe in vtuber supremacy
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me "a"
